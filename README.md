@@ -1,6 +1,6 @@
 # Image Filter
 
-Demo URL: 
+Demo URL: http://image-filter-dev222.us-east-1.elasticbeanstalk.com/
 
 ## Install dependencies
 
@@ -15,3 +15,6 @@ npm run dev
 ```
 
 ## Deployment capture
+
+![image](./deployment_screenshots/demo-img.png)
+
